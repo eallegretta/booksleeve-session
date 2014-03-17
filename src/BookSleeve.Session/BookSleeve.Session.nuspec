@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>$id$</id>
+        <version>$version$</version>
+        <title>$title$</title>
+        <authors>$author$</authors>
+        <owners>$author$</owners>
+        <licenseUrl>http://raw.github.com/eallegretta/booksleeve-session/master/LICENSE.txt</licenseUrl>
+        <projectUrl>http://github.com/eallegretta/booksleeve-session</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>$description$</description>
+        <copyright>Copyright 2014</copyright>
+        <tags>SerializationProviders serialization serialize serializer serialization-providers serialization-provider</tags>
+        <dependencies>
+            <dependency id="BookSleeve" version="1.3" />
+        </dependencies>
+        <frameworkAssemblies>
+            <frameworkAssembly assemblyName="System.Configuration" targetFramework="net40" />
+        </frameworkAssemblies>
+    </metadata>
+</package>
